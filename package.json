@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-ezze-ts",
+  "version": "0.9.0",
+  "description": "ESLint rules for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezze/eslint-config-ezze-ts.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "typescript"
+  ],
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezze/eslint-config-ezze-ts/issues"
+  },
+  "homepage": "https://github.com/ezze/eslint-config-ezze-ts#readme",
+  "dependencies": {
+    "eslint-config-ezze": "^0.9.0"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "@typescript-eslint/parser": "^4.8.1",
+    "eslint": "^7.0.0"
+  }
+}
