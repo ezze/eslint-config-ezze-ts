@@ -4,6 +4,7 @@
   "description": "ESLint rules for TypeScript",
   "main": "index.js",
   "scripts": {
+    "raise": "raisever",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,5 +29,8 @@
     "@typescript-eslint/eslint-plugin": "^4.8.1",
     "@typescript-eslint/parser": "^4.8.1",
     "eslint": "^7.0.0"
+  },
+  "devDependencies": {
+    "raise-version": "^0.3.2"
   }
 }
