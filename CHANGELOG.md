@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.10.1 (2020-12-03)
+
 - Order of configurations to extend is reverted back.
 
 ## 0.10.0 (2020-12-03)
