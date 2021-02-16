@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ezze-ts",
-  "version": "0.10.1",
+  "version": "0.11.0",
   "description": "ESLint rules for TypeScript",
   "main": "index.js",
   "scripts": {
@@ -22,15 +22,13 @@
     "url": "https://github.com/ezze/eslint-config-ezze-ts/issues"
   },
   "homepage": "https://github.com/ezze/eslint-config-ezze-ts#readme",
-  "dependencies": {
-    "eslint-config-ezze": "^0.9.0"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.8.1",
     "@typescript-eslint/parser": "^4.8.1",
     "eslint": "^7.0.0"
   },
   "devDependencies": {
-    "raise-version": "^0.3.2"
+    "raise-version": "^0.5.0"
   }
 }

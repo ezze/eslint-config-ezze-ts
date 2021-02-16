@@ -15,6 +15,6 @@
     "merge": true,
     "all": false,
     "tag": true,
-    "push": false
+    "push": true
   }
 }
