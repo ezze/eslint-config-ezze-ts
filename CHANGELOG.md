@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.11.0 (2021-02-16)
+
 - Configuration doesn't depend on `eslint-config-ezze` anymore.
 
 ## 0.10.1 (2020-12-03)
