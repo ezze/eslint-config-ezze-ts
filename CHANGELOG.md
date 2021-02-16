@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.11.1 (2021-02-16)
+
+- `no-undef` standard rule is removed.
+
 ## 0.11.0 (2021-02-16)
 
 - Configuration doesn't depend on `eslint-config-ezze` anymore.
