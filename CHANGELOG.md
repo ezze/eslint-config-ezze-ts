@@ -1,5 +1,7 @@
 # Changelog
 
+- Configuration doesn't depend on `eslint-config-ezze` anymore.
+
 ## 0.10.1 (2020-12-03)
 
 - Order of configurations to extend is reverted back.
