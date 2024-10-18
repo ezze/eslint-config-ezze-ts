@@ -5,31 +5,21 @@
 ## Installation
 
 ```
-yarn add eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-ezze-ts --dev
+pnpm add @stylistic/eslint-plugin-js@2 @stylistic/eslint-plugin-ts@2 @typescript-eslint/eslint-plugin@7 @typescript-eslint/parser@7 eslint@8 eslint-plugin-import@2 eslint-plugin-prettier@5 --save-dev
 ```
 
-or
-
-```
-npm install eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-ezze-ts --save-dev
-```
-    
 ## Usage
 
-Create `.eslintrc.json` file in your project and place the following there:
+Create `.eslintrc.js` file in your project and place the following there:
 
 ```json
 {
-  "extends": "ezze-ts"
+  extends: ['ezze-ts']
 }
 ```
     
-See [Shareable configs](http://eslint.org/docs/developer-guide/shareable-configs) for more details.    
-
-## Contribution
-
-Before making a pull request be sure that your changes are rebased to `develop` branch.
+See [Shareable configs](http://eslint.org/docs/developer-guide/shareable-configs) for more details.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
