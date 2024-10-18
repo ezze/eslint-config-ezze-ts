@@ -12,8 +12,8 @@ pnpm add @stylistic/eslint-plugin-js@2 @stylistic/eslint-plugin-ts@2 @typescript
 
 Create `.eslintrc.js` file in your project and place the following there:
 
-```json
-{
+```javascript
+module.exports = {
   extends: ['ezze-ts']
 }
 ```
