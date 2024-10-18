@@ -4,7 +4,6 @@
   "description": "ESLint rules for TypeScript",
   "main": "index.js",
   "scripts": {
-    "raise": "raisever",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,13 +21,13 @@
     "url": "https://github.com/ezze/eslint-config-ezze-ts/issues"
   },
   "homepage": "https://github.com/ezze/eslint-config-ezze-ts#readme",
-  "dependencies": {},
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.8.1",
-    "@typescript-eslint/parser": "^4.8.1",
-    "eslint": "^7.0.0"
-  },
-  "devDependencies": {
-    "raise-version": "^0.5.0"
+    "@stylistic/eslint-plugin-js": "^2.9.0",
+    "@stylistic/eslint-plugin-ts": "^2.9.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "eslint": "^8.0.0",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-prettier": "^5.0.0"
   }
 }
