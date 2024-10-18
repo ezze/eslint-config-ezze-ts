@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 (2024-10-18)
+
+- Update ESLint rules and dependencies.
+
 ## 0.11.1 (2021-02-16)
 
 - `no-undef` standard rule is removed.
