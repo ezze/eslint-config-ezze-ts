@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-pnpm add @eslint/js@^9.16.0 @stylistic/eslint-plugin-js@^2.11.0 @stylistic/eslint-plugin-ts@^2.11.0 eslint@^9.16.0 eslint-plugin-import@^2.31.0 typescript-eslint@^8.17.0
+pnpm add @eslint/js@^9.16.0 @stylistic/eslint-plugin-js@^2.11.0 @stylistic/eslint-plugin-ts@^2.11.0 eslint@^9.16.0 eslint-plugin-import@^2.31.0 typescript-eslint@^8.17.0 -D
 ```
 
 ## Usage
@@ -13,10 +13,10 @@ pnpm add @eslint/js@^9.16.0 @stylistic/eslint-plugin-js@^2.11.0 @stylistic/eslin
 Create `eslint.config.js` file in your project and place the following there:
 
 ```typescript
-import ezze from 'eslint-config-ezze-ts';
+import ezzeTypeScript from 'eslint-config-ezze-ts';
 
 export default [
-  ...ezze
+  ...ezzeTypeScript
 ];
 ```
     
