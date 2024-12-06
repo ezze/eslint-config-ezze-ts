@@ -77,7 +77,7 @@ module.exports = [
         }
       ],
       '@stylistic/ts/object-curly-spacing': ['error', 'always', { arraysInObjects: true, objectsInObjects: true }],
-      '@stylistic/ts/quotes': ['error', 'single'],
+      '@stylistic/ts/quotes': ['error', 'single', { avoidEscape: true }],
       '@stylistic/ts/semi': ['error', 'always'],
       '@stylistic/ts/space-before-blocks': 'error',
       '@stylistic/ts/space-before-function-paren': [
