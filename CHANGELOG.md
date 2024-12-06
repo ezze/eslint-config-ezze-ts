@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0-alpha.0 (2024-12-06)
+
+- Migrate to ESLint 9.
+
 ## 0.2.0 (2024-10-18)
 
 - Update ESLint rules and dependencies.
