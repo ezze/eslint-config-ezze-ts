@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0-alpha.2 (2024-12-17)
+
+- Type declaration file `index.d.ts` is added.
+
 ## 1.0.0-alpha.1 (2024-12-06)
 
 - Improve `@stylistic/ts/quotes` rule to be [compatible with Prettier](https://github.com/prettier/prettier/issues/973#issuecomment-622489106).
