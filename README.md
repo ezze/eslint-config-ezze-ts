@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-pnpm add @eslint/js@^9.16.0 @stylistic/eslint-plugin-js@^2.11.0 @stylistic/eslint-plugin-ts@^2.11.0 eslint@^9.16.0 eslint-plugin-import@^2.31.0 typescript-eslint@^8.17.0 -D
+pnpm add @eslint/js@^10.0.1 @stylistic/eslint-plugin@^5.10.0 eslint@^10.10.0 eslint-plugin-import-x@^4.17.1 typescript-eslint@^8.70.0 -D
 ```
 
 ## Usage

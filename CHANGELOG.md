@@ -3,6 +3,8 @@
 ## 1.0.0-alpha.3 (2026-09-11)
 
 - ESLint is upgraded to 10.x.
+- `eslint-import-plugin` is replaced by `eslint-import-plugin-x`.
+- Actual version of `@stylistic/eslint-plugin` is used.
 
 ## 1.0.0-alpha.2 (2024-12-17)
 
