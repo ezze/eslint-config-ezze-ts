@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0-alpha.3 (2026-09-11)
+
+- ESLint is upgraded to 10.x.
+
 ## 1.0.0-alpha.2 (2024-12-17)
 
 - Type declaration file `index.d.ts` is added.
